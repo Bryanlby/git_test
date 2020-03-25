@@ -1,0 +1,9 @@
+print("test222")
+
+<<<<<<< HEAD
+print("test2223")
+
+print("test2224")
+=======
+print("test2223")
+>>>>>>> 1fd32d5... 5
